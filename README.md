@@ -133,5 +133,5 @@ plt.show()
 
 
 ## Result:
-   Thus a Bayesian Network is generated using Python
+   Thus a Bayesian Network is generated using Python.
 
